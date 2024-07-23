@@ -48,13 +48,10 @@ The system implements a modified priority algorithm to optimize elevator operati
 
 ## Contributors
 
-- [Your Name]
-- [Other Contributors (if applicable)]
+- Chinmay G S
+- Gautam Sivakumar
 
-## License
-
-This project is licensed under the [License Name] License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
-- [Mention any acknowledgments or references here]
+- Hardware Descrition Language by Indranil Sengupta
