@@ -1,4 +1,4 @@
-\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\# Elevator Control System with Verilog FSM
+# Elevator Control System with Verilog FSM
 
 ## Introduction
 
